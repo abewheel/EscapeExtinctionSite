@@ -1,5 +1,18 @@
 d:assets:0:application/unknown
 i:badlogic.jpg:68465:image/jpeg
+d:data:0:application/unknown
+i:data/EE 2.png:24979:image/png
+i:data/EE 3.png:25845:image/png
+i:data/EE 4.png:108244:image/png
+i:data/EE 5.png:20638:image/png
+i:data/EE 6.png:80693:image/png
+i:data/EE Background 7.png:20746:image/png
+i:data/EE Mountain Foreground 1.png:31241:image/png
+i:data/EE-Texture-Pack.png:380023:image/png
+i:data/localboys.png:17187:image/png
+i:data/walk 1.png:23103:image/png
+i:data/walk 2.png:23339:image/png
+i:data/walk 3.png:23652:image/png
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:770:application/unknown
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2886:application/unknown
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:5162:application/unknown
