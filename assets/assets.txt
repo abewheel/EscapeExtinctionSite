@@ -10,6 +10,7 @@ i:data/EE Background 7.png:20746:image/png
 i:data/EE Mountain Foreground 1.png:31241:image/png
 i:data/EE-Texture-Pack.png:380023:image/png
 i:data/localboys.png:29870:image/png
+t:data/TextureCoordinates.txt:345:text/plain
 i:data/walk 1.png:23103:image/png
 i:data/walk 2.png:23339:image/png
 i:data/walk 3.png:23652:image/png
